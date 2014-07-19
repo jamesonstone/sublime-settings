@@ -1,0 +1,9 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Jade",
+		"Pretty JSON",
+		"Theme - Phoenix"
+	]
+}
